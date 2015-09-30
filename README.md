@@ -1,6 +1,6 @@
 # expt-with-regression
 
-This project experiments with :
+This project experiments with :  
 Gaussian discriminators  
 Linear Regression  
 Ridge Regression  

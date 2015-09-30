@@ -1,4 +1,4 @@
-# expt-with-regression
+# expt-with-regression (Python, Machine Learning)
 
 This project experiments with :  
 Gaussian discriminators  
